@@ -1,0 +1,47 @@
+1.introduction to css
+2.syntax for css
+[
+    selector{property:value}
+]
+3.css units
+[
+    px - pixel
+    % - percent
+    cm - centimeter
+    em
+    ex
+    in - inches
+    mm - milimeter
+    pc - picas
+    pt - point
+]
+4.colors in css
+[
+    hexa code
+    short code
+    RGB
+    RGB absolute
+    keybord
+
+]
+5.css backgrounds
+[
+    background colors
+    background image
+    background image
+    background position
+    background attachment
+    background
+]
+6.css fonts
+7.css text
+8.css image
+9.css table
+10.borders
+11.margin
+12.padding
+13.lists
+14.cursor
+15.dimensions
+16.scrollbar
+
