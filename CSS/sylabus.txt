@@ -8,40 +8,116 @@
     px - pixel
     % - percent
     cm - centimeter
-    em
-    ex
+    rem
     in - inches
     mm - milimeter
-    pc - picas
-    pt - point
 ]
 4.colors in css
 [
     hexa code
-    short code
     RGB
-    RGB absolute
-    keybord
-
+    alpha value
 ]
 5.css backgrounds
 [
     background colors
-    background image
     background image
     background position
     background attachment
     background
 ]
 6.css fonts
+[
+    font-family
+    font-style
+    font-weight
+    font-size
+    font
+]
 7.css text
+[
+    text-color
+    direction
+    letter-spacing
+    word-spacing
+    text-indent
+    text-align
+    text-decoration
+    text-transform
+    white-space
+    text-shadow
+    
+]
 8.css image
+[
+    border
+    height
+    width
+]
 9.css table
+[
+    border-collapse
+    border-spacing
+    caption-side
+    empty-cell
+    table-layout
+]
 10.borders
+[
+    border-color
+    border-style
+    border-width
+    border
+]
 11.margin
+[
+    margin
+    margin-top
+    margin-right
+    margin-left
+    margin-bottom
+]
 12.padding
+[
+    padding
+    padding-top
+    padding-right
+    padding-left
+    padding-bottom
+]
 13.lists
+[
+    list-style-type
+    list-style-position
+    list-style-image
+
+]
 14.cursor
-15.dimensions
-16.scrollbar
+[
+    auto
+    cosshair
+    default
+    pointer
+    move
+    e-resize
+    ne-resize
+    nw-resize
+    n-resize
+    se-resize
+    sw-resize
+    s-resize
+    w-resize
+    text
+    wait
+    help
+    <url>
+]
+15.scrollbar
+[
+    visible
+    hidden
+    scroll
+    auto
+    
+]
 

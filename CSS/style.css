@@ -1,0 +1,25 @@
+/* syntax */
+/*
+.selector
+{
+    property : value;
+}
+*/
+h1 /*this is a selecto*/
+{
+   color : red; /*color is property and red is it's value*/
+}
+.class-selector{ /*this is a class selector , for selecting class we use '.' (dot) operator*/
+    color: lightseagreen;
+}
+#id-selector{ /*this is a class selector , for selecting class we use '.' (dot) operator*/
+    color: lightsalmon;
+    font: 1px bold;
+}
+.back{
+    background-color: brown;
+    width: 100cm;
+    height: 100vh;
+    background-image: url('1474.gif');
+    background-repeat: no-repeat;
+}

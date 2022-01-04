@@ -1,0 +1,22 @@
+.pixel{
+    font-size: 45px;
+}
+.em{
+    font-size: 1em;
+}
+.pure{
+    color: hotpink;
+}
+.hexa{
+    color: #ffbb00;
+}
+.rgb{
+    color: rgb(0, 99, 228);
+}
+/* background color */
+.background{
+    background-color: indigo;
+}
+.back-image{
+    background-image:url('https://www.w3schools.com/w3css/img_lights.jpg')
+}
